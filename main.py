@@ -124,7 +124,7 @@ def execute_required_functions(required_actions):
         if func_name in functions:
             function = functions[func_name]
             # Assuming all functions take a single dictionary argument
-            result = function(**args)  # Calls your function like get_weather(q="Exton PA")
+            result = function(**args)  # Calls your function like get_weather(q="Philadelphia PA")
 
             # Serialize the function's output to JSON
             result_str = json.dumps(result)
