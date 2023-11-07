@@ -24,4 +24,8 @@ Example - Hey Jarvis, can you me the local weather for today?
 # Keys
 You need to setup an env file with your OpenAPI key, your RapidApi key, and I also put my assistant id in there as well. You can get your assistant id from the url when you create it.
 
+# Output
+With functions now you can have it answer things it never could before like so 
+![image](https://github.com/quinny1187/JARVIS/assets/108108975/f9e09ddb-1653-4657-9b9b-b5cbe2a251ec)
+
 
