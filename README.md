@@ -18,7 +18,7 @@ Example - Hey Jarvis, can you give me the weather for Los Angeles California tod
 I could not get the assistant to work without have at least one parameter for the method so I just pass in the variable q which I do nothing with.
 ![image](https://github.com/quinny1187/JARVIS/assets/108108975/e6bda380-2a10-4964-873d-8d8b7912675f)
 
-I then use the same api as above but before I do that I call the get my ip method to get my current api which I pass into the api, which in then returns the weather for that area.
+I then use the same api as above but before I do that I call the get my ip method to gets your public ip and passes it as a parameter in the get_weather() method, which in then returns the weather for that area.
 Example - Hey Jarvis, can you me the local weather for today?
 
 # Keys
